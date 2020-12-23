@@ -2915,7 +2915,7 @@ a.navbar-item.is-active,
   flex-shrink: 0;
 }
 .navbar-item img {
-  max-height: 1.75rem;
+  max-height: 3.75rem;
 }
 .navbar-item.has-dropdown {
   padding: 0;
@@ -10976,8 +10976,8 @@ a.article-nav-next span {
   }
 }
 .navbar-logo img {
-  max-height: 1.75rem;
-}
+  max-height: 3.75rem; /* public/css org : 1.75rem */
+}퍄ㅡ
 @media screen and (max-width: 768px) {
   footer.footer .level-start {
     text-align: center;
