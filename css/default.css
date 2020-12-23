@@ -2915,7 +2915,7 @@ a.navbar-item.is-active,
   flex-shrink: 0;
 }
 .navbar-item img {
-  max-height: 1.75rem;
+  max-height: 3.75rem;
 }
 .navbar-item.has-dropdown {
   padding: 0;
